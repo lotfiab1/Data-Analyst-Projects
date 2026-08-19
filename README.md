@@ -27,7 +27,7 @@ Welcome to my central repository containing a collection of data analysis projec
 
 ### British Menagerie Period
 
-- **Folder:** `./any-animal-except-project`
+- **Folder:** [any animals except project](./any-animal-except-project)
 - **Primary Notebook:** `any-animal-except-project.ipynb`
 - **Technologies:** `Python`, `Pandas`, `Matplotlib`
 - **Dataset:** `animal-word-trends-menageries.csv` — 3,906 rows tracking the yearly print-frequency (per million words) of animal words from 1700 to 2019.
