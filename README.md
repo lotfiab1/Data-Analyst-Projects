@@ -413,3 +413,15 @@ Welcome to my central repository containing a collection of data analysis projec
 - North America was the first continent to reach 50% adoption (2006), followed by Oceania (2007), Europe (2008), South America (2013), and Asia (2020); Africa had not yet reached 50% adoption as of the most recent data (39% in 2021).
 - Asia has by far the largest population (4.72 billion) and the largest absolute number of internet users among continents, despite a comparatively moderate adoption percentage (58%).
 
+## 👨‍💻 Author
+
+**Lotfi Ait Baaya**
+
+* 🌐 Portfolio: [lotfi-protfolio.vercel.app](https://lotfi-protfolio.vercel.app/)
+* 💼 LinkedIn: [linkedin.com/in/lotfiab1](https://www.linkedin.com/in/lotfiab1)
+* 🐙 GitHub: [github.com/lotfiab1](https://github.com/lotfiab1)
+
+## 📄 License
+
+This project is open source and available for educational and personal use. [LICENSE](https://github.com/lotfiab1/Data-Analyst-Projects/blob/master/LICENSE)
+
