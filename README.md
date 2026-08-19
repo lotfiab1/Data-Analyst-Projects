@@ -44,6 +44,8 @@ The repository demonstrates practical skills in **Python, Pandas, NumPy, Matplot
 
 ---
 
+- More Detail : [CLICK HERE](./TABLE_CONTENTS.md)
+
 # 🔎 Project Highlights
 
 ### 🪲 The Cicadas Are Coming
