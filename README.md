@@ -199,32 +199,6 @@ This repository demonstrates practical experience with:
 
 ---
 
-# 📂 Repository Structure
-
-```text
-Data-Analyst-Projects/
-│
-├── any-animal-except-project/
-├── cicadas-are-coming-project/
-├── coffee-survey-project/
-├── deepest-divers-project/
-├── flight-delays-project/
-├── granola-healthy-project/
-├── how-couples-met-project/
-├── lion-attacks-project/
-├── mondrian-art-project/
-├── plotting-animal-words-project/
-├── skeletal/
-├── stopping-distances-project/
-├── top-songs-project/
-├── tusked-elephants-project/
-├── warm-waters-peru-project/
-├── world-connected-project/
-│
-├── LICENSE
-├── README.md
-└── .gitignore
-```
 
 Each project contains its corresponding **Jupyter Notebook and dataset(s)** required to reproduce the analysis.
 
