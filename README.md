@@ -51,7 +51,7 @@ Welcome to my central repository containing a collection of data analysis projec
 
 ### The Cicadas Are Coming
 
-- **Folder:** `./cicadas-are-coming-project`
+- **Folder:** [cicadas are coming project](./cicadas-are-coming-project)
 - **Primary Notebook:** `cicadas_are_coming_project.ipynb`
 - **Technologies:** `Python`, `Pandas`, `Matplotlib`
 - **Dataset:** `animal-word-trends-cicada.csv` (word frequency 1820–2020) and `cicada-brood-mentions-print.csv` (total print mentions per brood, 1915–1970).
@@ -75,7 +75,7 @@ Welcome to my central repository containing a collection of data analysis projec
 
 ### A Plant-Based Coffee Shop
 
-- **Folder:** `./coffee-survey-project`
+- **Folder:** [coffee survey project](./coffee-survey-project)
 - **Primary Notebook:** `coffee_survey_project.ipynb`
 - **Technologies:** `Python`, `Pandas`, `Matplotlib`
 - **Dataset:** `coffee-survey-results.csv` — survey responses from approximately 1,170 coffee drinkers, including dairy and sweetener preference columns.
@@ -98,7 +98,7 @@ Welcome to my central repository containing a collection of data analysis projec
 
 ### The Ocean's Deep-Diving Animals
 
-- **Folder:** `./deepest-divers-project`
+- **Folder:** [deepest divers project](./deepest-divers-project)
 - **Primary Notebook:** `deepest_divers_project.ipynb`
 - **Technologies:** `Python`, `Pandas`, `Matplotlib`
 - **Dataset:** `deepest-diving-animals.csv` — deepest recorded diving depths (in meters) for 118 marine animal species across 10 categories.
@@ -122,7 +122,7 @@ Welcome to my central repository containing a collection of data analysis projec
 
 ### Flight Delays
 
-- **Folder:** `./flight-delays-project`
+- **Folder:** [flight delays project](./flight-delays-project)
 - **Primary Notebook:** `flights_delays_project.ipynb`
 - **Technologies:** `Python`, `Pandas`, `Matplotlib`
 - **Dataset:** `flights.csv` — 5,000 domestic flight records departing Atlanta airport in 2023, with scheduled/actual departure times. Extension uses `us-daily-passengers.csv` (365 days of national passenger volume).
@@ -146,7 +146,7 @@ Welcome to my central repository containing a collection of data analysis projec
 
 ### Is Granola Healthy?
 
-- **Folder:** `./granola-healthy-project`
+- **Folder:** [granola healthy project](./granola-healthy-project)
 - **Primary Notebook:** `granola_healthy_project.ipynb`
 - **Technologies:** `Python`, `Pandas`, `Matplotlib`
 - **Dataset:** `healthy-food-survey-public.csv` and `healthy-food-survey-experts.csv` — public and expert survey responses on whether each of 40 foods is considered healthy.
@@ -170,7 +170,7 @@ Welcome to my central repository containing a collection of data analysis projec
 
 ### The Internet and Dating
 
-- **Folder:** `./how-couples-met-project`
+- **Folder:** [how couples met project](./how-couples-met-project)
 - **Primary Notebook:** `how-couples-met-project.ipynb`
 - **Technologies:** `Python`, `Pandas`, `Matplotlib`, `Seaborn`
 - **Dataset:** `how-couples-met.csv` — percentage of couples who met via each of 7 methods (college, work, friends, family, online, restaurant, neighbors), by decade from the 1960s to 2010s.
@@ -194,7 +194,7 @@ Welcome to my central repository containing a collection of data analysis projec
 
 ### Lion Attacks
 
-- **Folder:** `./lion-attacks-project`
+- **Folder:** [lion attacks project](./lion-attacks-project)
 - **Primary Notebook:** `lion-attacks-project.ipynb`
 - **Technologies:** `Python`, `Pandas`, `Matplotlib`, `Scikit-learn`
 - **Dataset:** `lion-attacks-lunar-cycle.csv` (30 days of the lunar cycle, evening moonlight level, and attack counts) and `lion-belly-sizes.csv` (lion belly-size estimates by moonlight level, averaged over 11,000 sightings).
@@ -217,7 +217,7 @@ Welcome to my central repository containing a collection of data analysis projec
 
 ### Art as Data
 
-- **Folder:** `./mondrian-art-project`
+- **Folder:** [mondrian art project](./mondrian-art-project)
 - **Primary Notebook:** `mondrian-art-project.ipynb`
 - **Technologies:** `Python`, `Pandas`, `Matplotlib`
 - **Dataset:** `mondrian-painting-features.csv` (3,204 geometric feature rows across paintings) and `mondrian-painting-info.csv` (136 paintings, 1920–1940, with year/title/dimensions). A disputed painting's features are in `fp26-features.csv`.
@@ -243,7 +243,7 @@ Welcome to my central repository containing a collection of data analysis projec
 
 ### Plotting Animal Words
 
-- **Folder:** `./plotting-animal-words-project`
+- **Folder:** [plotting animal words project](./plotting-animal-words-project)
 - **Primary Notebook:** `plotting-animal-words-project.ipynb`
 - **Technologies:** `Python`, `Pandas`, `Matplotlib`
 - **Dataset:** `animal-word-trends-intro.csv` — 3,145 rows of yearly word frequency (per million words) for various animal words, spanning 1700–2019.
@@ -267,7 +267,7 @@ Welcome to my central repository containing a collection of data analysis projec
 
 ### Skeletal Variation
 
-- **Folder:** `./skeletal`
+- **Folder:** [skeletal](./skeletal)
 - **Primary Notebook:** `skeletal-variation.ipynb`
 - **Technologies:** `Python`, `Pandas`
 - **Dataset:** `adult-human-skeleton.csv` (206 human bones), `mammal-neck-bones.csv` (302 mammal species), `bird-neck-bones.csv` (81 bird species).
@@ -293,7 +293,7 @@ Welcome to my central repository containing a collection of data analysis projec
 
 ### E-Bike Stopping Distances
 
-- **Folder:** `./stopping-distances-project`
+- **Folder:** [stopping distances project](./stopping-distances-project)
 - **Primary Notebook:** `stopping-distances-project.ipynb`
 - **Technologies:** `Python`, `Pandas`, `Matplotlib`, `Scikit-learn`
 - **Dataset:** `ebike-stopping-distances.csv` (9 speed/distance measurements), plus `ebike-data-low-speed.csv`, `ebike-data-high-speed.csv`, and (in the extension) `car-stopping-distances.csv`.
@@ -319,7 +319,7 @@ Welcome to my central repository containing a collection of data analysis projec
 
 ### A Century of Top Songs
 
-- **Folder:** `./top-songs-project`
+- **Folder:** [top songs project](./top-songs-project)
 - **Primary Notebook:** `top-songs-project.ipynb`
 - **Technologies:** `Python`, `Pandas`, `Matplotlib`
 - **Dataset:** `top-song-durations.csv` — the number-one hit song for each year from 1923 to 2023 (101 records), including artist, title, and duration.
@@ -343,7 +343,7 @@ Welcome to my central repository containing a collection of data analysis projec
 
 ### Tusked Elephants
 
-- **Folder:** `./tusked-elephants-project`
+- **Folder:** [tusked elephants project](./tusked-elephants-project)
 - **Primary Notebook:** `tusked-elephants-project.ipynb`
 - **Technologies:** `Python`, `Pandas`, `Matplotlib`, `Scikit-learn`
 - **Dataset:** `male-elephant-tusk-size.csv` — 299 records of elephant age, shoulder height, and tusk length, split into a pre-poaching cohort (1966–68) and a post-recovery cohort (2005–13).
@@ -367,7 +367,7 @@ Welcome to my central repository containing a collection of data analysis projec
 
 ### Warm Waters off Peru
 
-- **Folder:** `./warm-waters-peru-project`
+- **Folder:** [warm waters peru project](./warm-waters-peru-project)
 - **Primary Notebook:** `warm-waters-peru-project.ipynb`
 - **Technologies:** `Python`, `Pandas`, `Matplotlib`
 - **Dataset:** `animal-word-trends-peru.csv` (word frequency for 5 fish species) and `anchoveta-caught-per-year.csv` (annual anchoveta catch in megatonnes, 1950–1990).
@@ -391,7 +391,7 @@ Welcome to my central repository containing a collection of data analysis projec
 
 ### Our World Connected
 
-- **Folder:** `./world-connected-project`
+- **Folder:** [world connected project](./world-connected-project)
 - **Primary Notebook:** `world-connected-project.ipynb`
 - **Technologies:** `Python`, `Pandas`, `NumPy`, `Matplotlib`
 - **Dataset:** `world-internet-users.csv` (global internet users, 1990–2024) and `historical-world-population.csv` (population estimates back to 10,000 BCE). Extension uses continent-level breakdowns from `extension-internet-users-by-continent.csv` and `extension-historical-population-by-continent.csv`.
